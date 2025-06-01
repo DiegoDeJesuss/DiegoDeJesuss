@@ -30,6 +30,12 @@
   <a href="https://www.linkedin.com/in/diego-de-jesus-paula-7b1b9a173/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+
+   <a href="https://snazzy-zabaione-62a5e0.netlify.app/?" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+  </a>
+
+ 
 <!--   <a href="diegodejesuspaula@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a> -->
@@ -40,6 +46,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DiegoDeJesuss/DiegoDeJesuss/output/snake.svg" alt="Snake animation" />
+
+
+
 
 ###
 
