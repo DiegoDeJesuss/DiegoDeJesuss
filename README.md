@@ -48,12 +48,6 @@
 
 ###
 
-<p align="center">Hello World!!</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DiegoDeJesuss/count.svg?"  />
-</div>
 
 ###
